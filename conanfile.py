@@ -3,7 +3,7 @@ from conans.model.version import Version
 from conans.errors import ConanInvalidConfiguration
 import shutil
 
-class SubprocessConan(ConanFile):
+class HeaderlibraryConan(ConanFile):
     name = "headerlibrary"
     url = "None"
     license = "None"
